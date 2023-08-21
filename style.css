@@ -44,7 +44,7 @@ nav{
 
 nav h2{
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     /* cursor: pointer; */
     letter-spacing: 2px;
 
@@ -114,12 +114,12 @@ nav ul li a:hover{
 .main h1{
     color: white;
     margin: 20px 0px 20px;
-    font-size: 65px;
+    font-size: 55px;
 }
 
 .main h3{
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 30px;
     padding-bottom: 1%;
 
